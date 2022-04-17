@@ -2,7 +2,7 @@
 
 **产品 logo：**
 
-![logo](README.assets/logo.jpeg)
+<img src="README.assets/logo.jpeg" alt="logo" style="zoom:50%; margin:0 auto" />
 
 **产品描述:** 
 
@@ -29,7 +29,7 @@
 
 **Beta版界面：**
 
-![show](README.assets/show.png)
+<img src="README.assets/show.png" alt="show" style="zoom:100%; margin:0 auto" />
 
 **备注：**
 
