@@ -1,0 +1,11 @@
+.van-nav-bar {
+  background-color: slateblue;
+}
+.van-nav-bar .van-nav-bar__title {
+  color: antiquewhite;
+  font-size: 20px;
+  font-family: 'Sofia';
+}
+.van-form {
+  padding: 50px 0;
+}
